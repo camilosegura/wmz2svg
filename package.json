@@ -1,0 +1,26 @@
+{
+  "name": "wmz2svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilosegura/wmz2svg.git"
+  },
+  "keywords": [
+    "wmz",
+    "wmf",
+    "svg",
+    "node",
+    "nodejs"
+  ],
+  "author": "Camilo Segura <camilosegurar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camilosegura/wmz2svg/issues"
+  },
+  "homepage": "https://github.com/camilosegura/wmz2svg#readme"
+}
