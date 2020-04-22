@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/camilosegura/wmz2svg/issues"
   },
-  "homepage": "https://github.com/camilosegura/wmz2svg#readme"
+  "homepage": "https://github.com/camilosegura/wmz2svg#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "sprintf-js": "^1.1.2"
+  }
 }
